@@ -4,6 +4,6 @@ I'm interested in scalable software.
 
 Currently at IBM/IBM Research.
 
-Recently I've been contributing to Opal, an open source simulator for exploring distributed LLM inference policies (for systems like llm-d and Dynamo) without consuming expensive GPU or storage infrastructure resources. My work here is primarily on KV Cache management and macro level coordinations, such as worker autoscaling. 
+Recently I've been contributing to Opal, an open source simulator for exploring distributed LLM inference policies (for systems like llm-d and Dynamo) without consuming GPU or storage infrastructure resources. My work here is primarily on KV Cache management and macro level coordinations, such as worker autoscaling. 
 
 Always happy to chat - reach me at james.yan2028@gmail.com.
