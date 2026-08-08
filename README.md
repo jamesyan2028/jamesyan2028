@@ -1,6 +1,6 @@
 # Hi, I'm James 👋
 
-I'm interested in scalable software and model serving.
+I'm interested in scalable software.
 
 Currently at IBM/IBM Research.
 
